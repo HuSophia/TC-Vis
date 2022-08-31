@@ -1,5 +1,5 @@
 # TC-Vis
-
-Please view the full description of the project on my website! 
+Currently used by NOAA scientists
+Please view the full description of the project on my website.
 
 
